@@ -37,6 +37,10 @@ haqqd config chain-id haqq_54211-2
 ```bash
 haqqd keys add YOURWALLETNAME
 ```
+or recover
+```bash
+haqqd keys add YOURWALLETNAME --recover
+```
 
 **Add genesis account**
 ```bash
